@@ -2,9 +2,9 @@
 
 </br>
 
-A neural network coded from scratch, inclduing Stochastic Gradient Descent with both forward and backward propagation implemented from scratch.
+A neural network coded from scratch, inclduing Stochastic Gradient Descent with both forward and backward propagation implemented from scratch. The network is then applied to a variety of tasks, including the MNIST data set, loan approval predictions and finally loan default predictions.
 
-The network is then applied to a variety of tasks, including the MNIST data set (
+This project helped me gain a much deeper understanding of the maths behind backpropagation as well as gradient descent, and has helped me understand the basics of machine learning behind some of the most commonly used machine learning libraries. It has also furthered my interest in the financial sector, as similar, more advanced, technology plays a key role in evaluating financial systems and risk in the field.
 
 </br>
 
