@@ -8,7 +8,7 @@ This project helped me gain a much deeper understanding of the maths behind back
 
 <br>
 
-## To Use
+## Usage
 
 1. Create an `archive` folder.
 2. Download the following data sets:
