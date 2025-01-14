@@ -1,12 +1,12 @@
-﻿# Loan default predictor
+﻿# 📈 Loan default predictor
 
-</br>
+<br>
 
 A neural network coded from scratch, inclduing Stochastic Gradient Descent with both forward and backward propagation implemented from scratch. The network is then applied to a variety of tasks, including the MNIST data set, loan approval predictions and finally loan default predictions.
 
 This project helped me gain a much deeper understanding of the maths behind backpropagation as well as gradient descent, and has helped me understand the basics of machine learning behind some of the most commonly used machine learning libraries. It has also furthered my interest in the financial sector, as similar, more advanced, technology plays a key role in evaluating financial systems and risk in the field.
 
-</br>
+<br>
 
 ## To Use
 
@@ -19,7 +19,7 @@ This project helped me gain a much deeper understanding of the maths behind back
 3. Extract the contents of each of the data sets directly into `archive` folder.
 4. Run the notebook.
 
-</br>
+<br>
 
 ## Analysis of results
 
@@ -35,7 +35,7 @@ There is 10000 entries of data but only 3 datapoints for each column, meaning th
 ### Loan default (large)
 There are over 250000 data entries, each with 16 data points, allowing the network a high number of entries in the training set to finetune the weights. With a training set of 200000 entries, I am able to achieve 89% accuracy consistently on a test set of 10000 entries. This could perhaps be improved by adjusting learning rate, decay, and the number of neurons in hidden layers.
 
-</br>
+<br>
 
 ## Sources
 
